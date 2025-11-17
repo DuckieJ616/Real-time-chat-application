@@ -1,12 +1,45 @@
-## Hi there 👋
+# Online Chat Application
 
-<!--
-**DuckieJ616/DuckieJ616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A real-time online chat application that allows users to send and receive messages instantly.  
+This project demonstrates how to build a full-stack real-time communication system using modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on computer science
-- 🌱 I’m currently learning Python and Java
-- 🤔 I’m looking for help with coding
-- 📫 How to reach me: jiang.x2@northeastern.edu
--->
+## 🚀 Features
+
+- **Real-time messaging** (instant updates without refreshing)
+- **Private & group chat rooms**
+- **User authentication & online status**
+- **Message history persistence**
+- **Responsive UI for desktop & mobile**
+- **Typing indicators & message seen status**
+- **Notifications for new messages**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React (or your framework)
+- TypeScript / JavaScript
+- Tailwind CSS / CSS Modules
+- WebSocket client (or Socket.IO client)
+
+### **Backend**
+- Node.js + Express
+- WebSocket / Socket.IO
+- JWT Authentication
+- Database (MongoDB / PostgreSQL / Firebase / etc.)
+
+### **Deployment**
+- Vercel / Netlify (frontend)
+- Render / Railway / AWS / Heroku (backend)
+
+*(如果你的技术栈不同可以告诉我，我帮你替换成你的版本)*
+
+---
+
+## 📂 Project Structure
+
+
+
