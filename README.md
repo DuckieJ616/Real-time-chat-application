@@ -35,11 +35,6 @@ This project demonstrates how to build a full-stack real-time communication syst
 - Vercel / Netlify (frontend)
 - Render / Railway / AWS / Heroku (backend)
 
-*(如果你的技术栈不同可以告诉我，我帮你替换成你的版本)*
-
----
-
-## 📂 Project Structure
 
 
 
